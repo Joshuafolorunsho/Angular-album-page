@@ -18,4 +18,4 @@ import { ProductDescriptionComponent } from './product-description/product-descr
   providers: [ProductService],
   bootstrap: [AppComponent]
 })
-export class AppModule {}
+export class AppModule { }
